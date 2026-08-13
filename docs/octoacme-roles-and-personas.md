@@ -75,7 +75,131 @@ Project Managers coordinate delivery activities, manage schedules, risks, and co
 
 ---
 
+## QA/Testing Lead
+
+### Role Summary
+QA/Testing Lead owns quality assurance strategy, test planning, and acceptance validation for features and releases.
+
+### Responsibilities
+- Develop and maintain test plans and QA approaches
+- Create and execute test cases for acceptance criteria
+- Identify and triage quality issues
+- Collaborate with developers on testability and edge cases
+- Perform end-to-end smoke tests before releases
+- Track test coverage and quality metrics
+
+### Goals
+- Ensure features meet acceptance criteria and quality standards
+- Reduce production defects through comprehensive testing
+- Enable fast, confident releases
+
+### Typical Communication
+- Sprint planning and daily standups
+- QA sign-off in release checklist
+- Bug reports and quality dashboards
+
+---
+
+## Technical Architect
+
+### Role Summary
+Technical Architect provides technical direction, reviews design decisions, and ensures scalability, maintainability, and alignment with long-term technical strategy.
+
+### Responsibilities
+- Review technical designs and architecture proposals
+- Identify technical risks and scalability concerns
+- Provide guidance on technology choices and trade-offs
+- Mentor developers on best practices and design patterns
+- Ensure adherence to technical standards and documentation
+- Assess integration points and dependencies
+
+### Goals
+- Maintain system reliability and performance
+- Reduce technical debt and rework
+- Enable team velocity through solid architecture
+
+### Typical Communication
+- Technical design reviews and architecture discussions
+- Risk assessments in planning and execution phases
+- Code review guidance and technical mentoring
+
+---
+
+## Security Champion
+
+### Role Summary
+Security Champion integrates security practices into the delivery lifecycle, reviews security requirements, and ensures compliance.
+
+### Responsibilities
+- Review security requirements and threat models
+- Participate in design reviews with security lens
+- Coordinate security scanning and vulnerability assessment
+- Ensure security tests and checks run in CI
+- Respond to security incidents and escalate as needed
+- Maintain security documentation and compliance checklists
+
+### Goals
+- Reduce security vulnerabilities and breach risk
+- Enable secure, compliant deployments
+- Build security awareness across the team
+
+### Typical Communication
+- Security design reviews
+- Pre-release security verification
+- Incident response and escalation
+
+---
+
+## Stakeholder/Business Owner
+
+### Role Summary
+Stakeholder/Business Owner represents business interests, approves budgets and priorities, and holds the project accountable to business outcomes.
+
+### Responsibilities
+- Approve project charter and business case
+- Make go/no-go decisions at key gates
+- Review and approve resource allocation
+- Receive regular status updates and executive summaries
+- Escalate business risks and align on priorities
+- Measure and validate business impact post-release
+
+### Goals
+- Maximize ROI and business value delivery
+- Ensure projects align with business strategy
+- Maintain stakeholder confidence and trust
+
+### Typical Communication
+- Milestone and decision gate reviews
+- Monthly executive status updates
+- Release announcements and success metrics
+
+---
+
+## Design/UX Lead
+
+### Role Summary
+Design/UX Lead ensures user-centric design, usability, and consistent experience across features and product.
+
+### Responsibilities
+- Conduct user research and define user personas
+- Create wireframes, mockups, and design specs
+- Validate designs through user testing and feedback
+- Review implementation for design fidelity
+- Maintain design systems and consistency standards
+- Collaborate with product and development on usability
+
+### Goals
+- Deliver intuitive, delightful user experiences
+- Reduce user friction and support burden
+- Build brand consistency and trust
+
+### Typical Communication
+- Design reviews and user research findings
+- Sprint planning and acceptance criteria discussions
+- Usability testing and feedback sessions
+
+---
+
 ## How these personas are used in the exercise
 - Use these persona definitions to frame scenarios and sample interactions in the Skills Exercise.
 - Each persona can be used as a persona prompt for Copilot Spaces to shape role-specific guidance.
-
